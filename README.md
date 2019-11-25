@@ -15,9 +15,9 @@
 
 ![image-20191125201303899](https://github.com/Vision-wh/wechat-miniprogram/blob/master/ima/login.png)
 
-![image-20191125201317535](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20191125201317535.png)
+![image-20191125201317535](https://github.com/Vision-wh/wechat-miniprogram/blob/master/ima/car_share.png)
 
-![image-20191125201325668](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20191125201325668.png)
+![image-20191125201325668](https://github.com/Vision-wh/wechat-miniprogram/blob/master/ima/my.png)
 
 
 ## 使用教程(无需后台版本)
