@@ -19,8 +19,6 @@
 
 ![image-20191125201325668](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20191125201325668.png)
 
-![image-20191125201337066](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20191125201337066.png)
-
 
 ## 使用教程(无需后台版本)
 
