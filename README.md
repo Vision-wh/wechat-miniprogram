@@ -13,7 +13,7 @@
 
 ## 项目截图
 
-![image-20191125201303899](https://github.com/Vision-wh/wechat-miniprogram/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191125204735.png)
+![image-20191125201303899](https://github.com/Vision-wh/ima/car_share.png)
 
 ![image-20191125201317535](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20191125201317535.png)
 
